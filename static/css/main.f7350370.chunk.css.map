@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MAEE,WACe,CAChB,cAHC,aAAc,CAEd,aAOe,CANhB,QAIC,UAAW,CACX,WACe","file":"main.f7350370.chunk.css","sourcesContent":["#root {\n  display: block;\n  width: 350px;\n  margin: 0, auto;\n}\n\n.button {\n  display: block;\n  width: auto;\n  height: auto;\n  margin: 0, auto;\n}\n"]}
